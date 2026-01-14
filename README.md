@@ -22,5 +22,4 @@ This repository contains academic Python programs for MCA students, covering var
 3. Run notebooks in Jupyter or scripts via `python main.py`
 
 ## Author
-[Your Name]
-MCA Student
+O KEERTI RAO
